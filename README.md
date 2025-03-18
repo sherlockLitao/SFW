@@ -2,7 +2,7 @@
 
 This repository is the official implementation of Efficient Variants of Wasserstein Distance in
 Hyperbolic Space via Space-filling Curve Projection.
-This folder includes main experiments based on SFW, SFW$^\text{IPR}$(geo), and SFW$^\text{IPR}$(horo).
+This folder includes main experiments based on SFW, $SFW^\text{IPR}$(geo), and SFW$^\text{IPR}$(horo).
 
 
 # Platform:
